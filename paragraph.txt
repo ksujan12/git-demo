@@ -1,1 +1,2 @@
 Git helps developers manage source code efficiently. Developer 1 is working on improving the paragraph.
+Git helps developers manage source code efficiently. Developer 2 is adding new information.
