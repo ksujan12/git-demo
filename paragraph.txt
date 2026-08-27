@@ -1,1 +1,1 @@
-Git is a powerful version control system that helps developers manage source code efficiently. It allows developers to track changes and collaborate with other team members. Git maintains a history of changes and supports team collaboration.
+Git helps developers manage source code efficiently. Developer 2 is adding new information.
